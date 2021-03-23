@@ -56,4 +56,3 @@ const display = (msg, type) =>{
     msgDiv.innerHTML = innerText;
     displayMsg.appendChild(msgDiv)
 }
-// Now deploy heroku
